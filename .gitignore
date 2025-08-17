@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+
+# Ignore Python virtual environments and cache
+/venv/
+/env/
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Tableau temporary files
+*.twbr

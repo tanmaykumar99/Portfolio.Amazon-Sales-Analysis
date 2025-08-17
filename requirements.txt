@@ -1,0 +1,13 @@
+# Data Analysis & Manipulation
+pandas
+
+# Database Connection
+SQLAlchemy
+mysql-connector-python
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Jupyter Environment
+jupyterlab
