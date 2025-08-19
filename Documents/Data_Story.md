@@ -75,4 +75,22 @@ The Amazon Prime Day 2025 sale generated **₹3.19 Crores** in total sales over 
 
 NOTE: It is interesting to observe the discrepancy between the data for large warehouses being so low, yet the Mega FCs boasting the highest sales. This could lead to the conclusion that the Mega FC title is not just obtained based on size of an Amazon warehouse, but on other factors like location said warehouse caters to the most, its historical performance, constituent warehouse team, etc., in which case this would not qualify as a discrepancy at all, but if size is the only factor here, this could be pointing to a much bigger issue at hand, one of which is potentially a corrupted and/or mismatched data collection. A deeper dive is necessary to eliminate these questions before proceeding to making informed business decisions.
 
+## REPORT SUMMARY
+
+*   **Total Sales:** The company has achieved total sales of **₹3.19 Crores** across **8,523 products sold**.
+*   **Average Metrics:** The average sale per product stands at **₹3,744**, with an average customer rating of **3.92**.
+
+### Strategic Focus Areas
+
+*   **Promotional Impact:** Discounted items account for **56% of total sales** (₹1.7 Crores), indicating that promotional strategies are a significant driver of revenue.
+    *   **Recommendation:** Optimize discount strategies by analyzing the product categories that perform best under promotion and tailor campaigns to maximize profitability.
+*   **Category Dominance:** The **Electronics** and **Large Appliances** categories are the top revenue generators.
+    *   **Recommendation:** Double down on these high-performing categories with targeted marketing campaigns and ensure optimal inventory levels. For lower-performing categories like **Kitchenware** and **Groceries**, consider bundling strategies or targeted promotions to boost sales.
+*   **Warehouse & Location Insights:**
+    *   **Urban Dominance:** Urban warehouses generate the highest sales at **₹12.72M**, followed by Suburban (₹10.28M) and Rural (₹8.92M).
+    *   **Mega FCs are Key:** Mega Fulfillment Centers (FCs) handle the vast majority of sales, contributing **₹2.06 Crores**.
+    *   **Establishment Year Anomaly:** Warehouses established in **2018** show a significant peak in sales, reaching **₹5.7M**.
+    *   **Recommendation:** Investigate the operational efficiencies of the top-performing urban Mega FCs and the factors contributing to the 2018 sales peak. Replicate successful strategies across other locations. The lower sales from rural locations could indicate a need for enhanced logistics or marketing efforts in these areas.
+
+
 ---
