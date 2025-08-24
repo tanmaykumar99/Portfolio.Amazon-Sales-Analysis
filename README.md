@@ -8,6 +8,8 @@ The project demonstrates a comprehensive skill set in data engineering, analysis
 
 ## Live Dashboard
 
+(Given below is a gif to demonstrate the dynamic elements of the dashboard)
+
 An interactive Power BI dashboard has been developed to allow for dynamic filtering and exploration of the sales data. The dashboard provides a high-level overview of key metrics and allows for granular analysis across different segments.
 
 ![Dashboard Preview](Power_BI/images/dashboard.gif)
