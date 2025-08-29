@@ -45,7 +45,7 @@ This project follows a structured, multi-stage data pipeline:
 
 ## Data Source
 
-The dataset used for this analysis is the "Amazon Sales Data" file, containing transactional records with details on product status, category, sales figures, ratings, and warehouse information.
+The dataset used for this analysis is the "raw_data.json" file in the Datasets directory, containing transactional records with details on product status, category, sales figures, ratings, and warehouse information.
 
 ## Setup & Installation
 
